@@ -10,7 +10,7 @@ This project is about learning and implementing simple graphical user interface 
 1. Java
 2. Cypher Query
 2. Eclipse
-3. Neo4j
+3. Neo4j Graph Database
 4. Neo4j IDE Community Version
 5. Graph Database Service
 6. Java Swing Builder
